@@ -62,7 +62,12 @@ python manage.py migrate
 python manage.py runserver
 ```
 
-3. Set up the frontend (Node version >=20)
+3. Add OpenAI key
+```
+tasks/utils.py
+```
+
+5. Set up the frontend (Node version >=20)
 
 ```
 cd ../frontend
