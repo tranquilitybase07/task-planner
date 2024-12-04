@@ -1,4 +1,10 @@
 #!/usr/bin/env python
+
+# Student Name: Ankush Kumar
+# Student Number: c0931801
+# Course Name: CSD-4523
+# Project Title: AI Task Planner
+
 """Django's command-line utility for administrative tasks."""
 import os
 import sys
