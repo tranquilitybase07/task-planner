@@ -1,0 +1,10 @@
+env               # Virtual environment
+__pycache__/             # Byte-compiled Python files
+db.sqlite3               # Local SQLite database
+*.pyc                    # Python bytecode
+*.pyo
+*.py[cod]
+migrations/__pycache__/  # Migration cache
+task_planner/__pycache__/  # Cache for Django project
+tasks/__pycache__/       # Cache for Django app
+*.code-workspace                 # VS Code workspace
