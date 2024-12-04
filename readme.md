@@ -67,7 +67,7 @@ python manage.py runserver
 tasks/utils.py
 ```
 
-5. Set up the frontend (Node version >=20)
+4. Set up the frontend (Node version >=20)
 
 ```
 cd ../frontend
@@ -75,7 +75,7 @@ pnpm install
 pnpm dev
 ```
 
-4. Open your web browser and navigate to `http://localhost:5173` to access the AI Task Planner application.
+5. Open your web browser and navigate to `http://localhost:5173` to access the AI Task Planner application.
 
 ## Usage
 
